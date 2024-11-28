@@ -1,0 +1,57 @@
+[
+    {
+        "id": 6,
+        "userAddress": "河南省驻马店市西平县",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "lcx",
+        "phoneNum": "15236523651",
+        "isDefault": "0",
+        "regionId": 1,
+        "fullAddress": "河南省驻马店市西平县"
+    },
+    {
+        "id": 86,
+        "userAddress": "小象科技公司",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "小象",
+        "phoneNum": "17720125002",
+        "isDefault": "0",
+        "regionId": 1,
+        "fullAddress": "大象科技公司"
+    },
+    {
+        "id": 106,
+        "userAddress": "河南财政金融学院",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "张先生",
+        "phoneNum": "18275411313",
+        "isDefault": "0",
+        "regionId": 1,
+        "fullAddress": "河南财政金融学院"
+    },
+    {
+        "id": 134,
+        "userAddress": "成都",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "李女士",
+        "phoneNum": "16236533351",
+        "isDefault": "0",
+        "regionId": 1,
+        "fullAddress": "成都"
+    },
+    {
+        "id": 135,
+        "userAddress": "日本北海道1号",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "王世聪",
+        "phoneNum": "16300000000",
+        "isDefault": "1",
+        "regionId": 1,
+        "fullAddress": "北京日本北海道1号"
+    }
+]
